@@ -81,6 +81,15 @@ I'm a **Master's-level AI systems engineer** transforming complex business chall
 
 <div align="center">
 
+### [Fault-Tolerant Distributed Transaction System](https://github.com/Param2k23/Distributed-Transaction-System)
+<img src="https://img.shields.io/badge/Golang-gRPC-00ADD8?style=for-the-badge">
+<img src="https://img.shields.io/badge/RAFT-Consensus-FF6B6B?style=for-the-badge">
+<img src="https://img.shields.io/badge/99.9%25-Durability-32CD32?style=for-the-badge">
+
+Golang/gRPC distributed transaction system achieving 99.9% durability & sub-500ms latency • Multi-Paxos, RAFT, PBFT consensus across 20+ replicas
+
+---
+
 ### [HeartBridgeAI](https://github.com/Param2k23/HackPrinceton)
 <img src="https://img.shields.io/badge/Multi--Agent-AI-purple?style=for-the-badge">
 <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge">
