@@ -123,16 +123,21 @@ Processed 40M+ tweets to detect bot-driven anomalies and sentiment spikes
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Param2k23&theme=dark&hide_border=true)](https://github.com/Param2k23)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Param2k23&show_icons=true&theme=dark&hide_border=true)](https://github.com/Param2k23)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Param2k23&layout=compact&theme=dark&hide_border=true)](https://github.com/Param2k23)
-
 ### 📊 Key Metrics
-- **Public Repositories:** 15+
-- **Total Contributions:** 500+
-- **Followers:** [Visit Profile](https://github.com/Param2k23)
-- **Languages:** Python, Go, JavaScript, Java, C++
-- **Specialties:** Distributed Systems, AI/ML, Full-Stack Development
+
+| Metric | Value |
+|--------|-------|
+| Public Repositories | 15+ |
+| Total Contributions | 500+ |
+| Primary Languages | Python, Go, JavaScript |
+| Secondary Languages | Java, C++, SQL |
+| Specialties | Distributed Systems, AI/ML, Full-Stack |
+
+### 🛠️ Most Used Technologies
+- **Backend:** Golang, Python, Node.js, PostgreSQL, MongoDB
+- **Frontend:** React, TypeScript, JavaScript
+- **AI/ML:** LangChain, PyTorch, Vector Databases
+- **Cloud:** AWS, Docker, Kubernetes
 
 </div>
 
