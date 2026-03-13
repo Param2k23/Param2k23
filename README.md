@@ -156,7 +156,7 @@ Processed 40M+ tweets to detect bot-driven anomalies and sentiment spikes
 
 <div align="center">
 
-💼 **[LinkedIn](https://linkedin.com/in/param-patel19/)** • 🌐 **[Portfolio](https://parampatel.dev)** • 📧 **[Email](mailto:paramkamleshku.patel@stonybrook.edu)** • 💻 **[GitHub](https://github.com/Param2k23)**
+💼 **[LinkedIn](https://linkedin.com/in/param-patel19/)** • 🌐 **[Portfolio](https://param-patel.tech)** • 📧 **[Email](mailto:paramkamleshku.patel@stonybrook.edu)** • 💻 **[GitHub](https://github.com/Param2k23)**
 
 ### "I transform business challenges into AI-powered solutions that drive measurable impact."
 
